@@ -1,4 +1,5 @@
 Descripción del proyecto
+
 Este repositorio contiene el desarrollo de una API RESTful construida con .NET 8, utilizando Entity Framework Core como ORM y SQL Server como sistema de gestión de base de datos. La API implementa operaciones CRUD (Crear, Leer, Actualizar y Eliminar) para la gestión eficiente de un grupo de personas, lo cual puede adaptarse fácilmente a distintos contextos como sistemas de registro, directorios organizacionales o bases de datos de clientes.
 
 La arquitectura está pensada para ser limpia, escalable y fácil de mantener, siguiendo buenas prácticas en el diseño de APIs REST y aprovechando al máximo las capacidades modernas del ecosistema .NET.
